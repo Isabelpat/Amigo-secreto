@@ -25,7 +25,7 @@ __________
 
 ### Vista previa
 
-![Proyecto](assets/portafolios.png)
+![Proyecto](assets/Captura de pantalla 2025-02-06 230920.png)
 
 
 
