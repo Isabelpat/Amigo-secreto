@@ -1,14 +1,24 @@
-### PROYECTO AMIGO SECRETO
-Mi nombre es **Isabel Benitez** soy Ingeniera bioquímica, apasionada por la tecnología.
+🎁### PROYECTO AMIGO SECRETO
+Hola, mi nombre es Isabel Benítez, soy Ingeniera Bioquímica apasionada por la tecnología.
 
-En este repositorio encontraras un proyecto donde se implementa funciones basicas de HTML Y JS.
-la app se trata de una pantalla donde podemos agregar una lista de nombres que se podran sortear 
-una vez que se ingresan todos los nombres de su interes, en este caso esta limitado a 10 nobres pero se puede extender.
+Este proyecto es una aplicación interactiva creada con HTML, CSS y JavaScript, diseñada para organizar un sorteo de amigo secreto de manera fácil y rápida.
 
+Funciones principales
+✅ Agregar nombres a la lista de participantes.
+✅ Límite de participantes (actualmente 10, pero se puede modificar).
+✅ Evitar nombres vacíos o repetidos.
+✅ Mostrar mensajes de validación cuando se excede el límite o hay errores.
+✅ Realizar el sorteo de forma aleatoria con solo un clic.
+✅ Mostrar los resultados del sorteo en pantalla.
+
+Este proyecto es ideal para aprender sobre manipulación del DOM, validaciones y aleatorización en JavaScript.
 __________
-### SECCIONES
-- 🛠️Actualizacion de repositorio por medio de git 
-- 🗂️ creación de repositorios
+###SECCIONES DEL PROYECTO
+🛠️ Actualización del repositorio mediante Git
+🗂️ Creación y manejo de repositorios
+🎲 Implementación de un sorteo aleatorio
+🔔 Manejo de mensajes y validaciones
+
   
 
 ### CREADO CON:
@@ -17,17 +27,26 @@ __________
 - JavaScript
 
 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+
+### Vista previa del proyecto
+Aquí algunas capturas del proyecto en acción:
+
+### 🎲 Sorteo realizado  
+![Sorteo de nombres](assets/el_amigo_sorteado.png)  
+
+### 🔢 Límite de nombres alcanzado  
+![Límite de nombres](assets/limite_de_nombres.png)  
+
+### 🔔 Mensaje cuando se agrega un nombre  
+![Mensaje de nombre agregado](assets/mensaje_ya_se_agrego_nombre.png)  
+
+### ⚠️ Error al intentar agregar un campo vacío  
+![No se aceptan vacíos](assets/no_se_aceptan_vacios.png)  
 
 
 
-### Vista previa
-
-![Proyecto](assets/Captura de pantalla 2025-02-06 230920.png)
 
 
 
-*Contacto*
+📩 CONTACTO
 [brpisabel@gmail.com](mailto:brpisabelgmail.com)
