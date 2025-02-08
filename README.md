@@ -28,20 +28,19 @@ __________
 
 
 
-### Vista previa del proyecto
-Aquí algunas capturas del proyecto en acción:
 
 ### 🎲 Sorteo realizado  
-![Sorteo de nombres](assets/el amigo sorteado.png)  
+![Sorteo de nombres](assets/el_amigo_sorteado.png)  
 
 ### 🔢 Límite de nombres alcanzado  
-![Límite de nombres](assets/limite de nombres.png)  
+![Límite de nombres](assets/limite_de_nombres.png)  
 
 ### 🔔 Mensaje cuando se agrega un nombre  
-![Mensaje de nombre agregado](assets/mensaje ya se agrego nombre.png)  
+![Mensaje de nombre agregado](assets/mensaje_ya_se_agrego_nombre.png)  
 
 ### ⚠️ Error al intentar agregar un campo vacío  
-![No se aceptan vacíos](assets/no se aceptan vacios.png)  
+![No se aceptan vacíos](assets/no_se_aceptan_vacios.png)  
+ 
 
 
 
